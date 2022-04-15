@@ -27,5 +27,6 @@ L’objectif est de réaliser les concepts fondamentaux de web service, on utili
 
 --------------------------------------------------------------
 -Le patrie 04 : generation de Client web service a partir de WSDL  
+le code source :https://github.com/OUBRAYME-MUSTAFA/ClientWebService.git
 
 ![ClientWS](https://user-images.githubusercontent.com/102171461/163222907-2ae23511-57de-4762-a870-afae19ff826a.png)
